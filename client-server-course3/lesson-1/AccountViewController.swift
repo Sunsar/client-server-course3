@@ -27,6 +27,9 @@ class AccountViewController: UIViewController {
         Account.shared.name = nameTextField.text ?? ""
         Account.shared.cash = cash
         
+        
+        
+        
     }
     
 
